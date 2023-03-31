@@ -1,13 +1,13 @@
 ¿Podría PCA ayudar a mejorar los clusters? 
-- Si, PCA podría ser útil ya que permitirí utilizar más de 2 variable para clustering. Esto tomaría en cuenta más parámetros sin aumentar la dimensionalidad.
+* ayuda a mejorar la agrupacion de los datos mediante la reduccion de dimensiones y al eliminar caracteristicas irrelevantes. Es importnte tener en cuenta que estas tambien pueden llegar a eliminar datos lo cual afecta la interpretacion de la data 
 
 Resultados laboratorio 7 
   - Nuestro modelo:
-        * Metrica xxx:  0.7454139163668938
+        * Metrica xxx:  xxx
 
 Resultado laboratorio 8
     - Nuestro modelo:
-        * Metrica xxxx:  0.4837756712990533
+        * Metrica xxxx:  xxx
 
 ¿Cual fue mejor y por qué?
 * El Modelo realizado en el laboratorio 7 fue mejor. Esto debido a que para este set de datos el modelo de K-Means funciona mejor.
