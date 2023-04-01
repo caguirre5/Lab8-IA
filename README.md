@@ -3,10 +3,11 @@
 
 Resultados laboratorio 7 
   - Nuestro modelo:
-        * Metrica xxx:  xxx
-
+    * Metrica Bouldin:  1.382379
+    * Metrica Harabasz: 196886.868271
+        
 Resultado laboratorio 8
-    - Nuestro modelo:
+  - Nuestro modelo:
         * Metrica xxxx:  xxx
 
 ¿Cual fue mejor y por qué?
